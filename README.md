@@ -10,6 +10,7 @@ Editar Item: Modifique o título e a descrição de filmes/livros já existentes
 Excluir Item: Remova itens da sua lista com uma confirmação para evitar exclusões acidentais.
 Persistência de Dados: Todos os dados são salvos localmente no dispositivo, garantindo que suas listas não sejam perdidas ao fechar o aplicativo.
 Navegação Detalhada: Clique em um item para ver seus detalhes em uma tela separada.
+
 🚀 Tecnologias Utilizadas
 Ionic Framework: Kit de ferramentas de UI de código aberto para criar aplicativos móveis de alta qualidade em frameworks web populares como Angular.
 Angular: Framework JavaScript para a construção de interfaces de usuário dinâmicas e Single Page Applications (SPAs).
@@ -18,6 +19,7 @@ TypeScript: Superset do JavaScript que adiciona tipagem estática, melhorando a 
 HTML5: Linguagem de marcação para estruturar o conteúdo.
 CSS / SCSS: Linguagem de folha de estilos para estilizar a interface do usuário.
 Capacitor Preferences API: Utilizado para armazenamento persistente de dados chave-valor no dispositivo.
+
 ⚙️ Como Rodar o Projeto (Desenvolvimento)
 Para clonar e rodar este projeto em seu ambiente de desenvolvimento, siga os passos abaixo:
 
