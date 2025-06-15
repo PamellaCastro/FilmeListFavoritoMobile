@@ -25,7 +25,7 @@ Clone o Repositório:
 
 Bash
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/PamellaCastro/FilmeListFavoritoMobile.git
 cd SEU_REPOSITORIO
 (Lembre-se de substituir SEU_USUARIO e SEU_REPOSITORIO pelos seus dados reais do GitHub)
 
